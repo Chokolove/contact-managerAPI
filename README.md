@@ -12,6 +12,7 @@ Mario Pernia
 Updates:
 
 Aug 14, 2020 => Changed initial port to 4000
+
 Aug 8, 2020  => Project starts
 
 
